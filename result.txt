@@ -1,0 +1,44 @@
+--- Performing HeapSort ---
+Test case number 1  took 0.171685s
+Test case number 2  took 0.172518s
+Test case number 3  took 0.233930s
+Test case number 4  took 0.236785s
+Test case number 5  took 0.233805s
+Test case number 6  took 0.242600s
+Test case number 7  took 0.235042s
+Test case number 8  took 0.236102s
+Test case number 9  took 0.234613s
+Test case number 10  took 0.243322s
+--- Performing MergeSort ---
+Test case number 1  took 0.113142s
+Test case number 2  took 0.084011s
+Test case number 3  took 0.152193s
+Test case number 4  took 0.165054s
+Test case number 5  took 0.165658s
+Test case number 6  took 0.177154s
+Test case number 7  took 0.150321s
+Test case number 8  took 0.164753s
+Test case number 9  took 0.166426s
+Test case number 10  took 0.159949s
+--- Performing QuickSort ---
+Test case number 1  took 0.017455s
+Test case number 2  took 0.018293s
+Test case number 3  took 0.114747s
+Test case number 4  took 0.121820s
+Test case number 5  took 0.123764s
+Test case number 6  took 0.114690s
+Test case number 7  took 0.115908s
+Test case number 8  took 0.124579s
+Test case number 9  took 0.121811s
+Test case number 10  took 0.120976s
+--- Performing CppLibrarySort ---
+Test case number 1  took 0.051011s
+Test case number 2  took 0.041515s
+Test case number 3  took 0.133183s
+Test case number 4  took 0.133887s
+Test case number 5  took 0.132770s
+Test case number 6  took 0.130959s
+Test case number 7  took 0.129861s
+Test case number 8  took 0.133414s
+Test case number 9  took 0.131699s
+Test case number 10  took 0.131154s
